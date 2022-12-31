@@ -1,8 +1,23 @@
 h1 {
   font-family: Playfair Display;
-}
+  font-size: 64px;
+  font-weight: bold;
+  line-height: 80px;
+  margin-top: 200px;
+  margin-bottom: 50px;
+
 
 h3,
 p {
   font-family: Poppins;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p {
+font-weight: normal;
+font-size: 14px;
 }
